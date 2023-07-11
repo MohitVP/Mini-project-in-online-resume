@@ -1,12 +1,12 @@
 # Mini-project-in-online-resume
-My group member created a project of third year mini project.
-the uses of HTML CSS and JS languages for creating that project.
-for that project we will created a simple online resume for creating the Resume/CV.
+<P>My group member created a project of Third year mini project.
+The uses of HTML CSS and JS languages for creating that project.
+For that project we will created a simple online resume for creating the Resume/CV.</p>
 
-My project Members
-1)Mohit Pathak
-2)Aditya Ambhore
-3)Mohommad Adnan
-4)Divya Wankhade
+<p1>My project Members</p1>
+<p>1)Mohit Pathak</p>
+<p>2)Aditya Ambhore</p>
+<p>3)Mohommad Adnan</p>
+<p>4)Divya Wankhade</p>
 
 
